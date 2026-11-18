@@ -4,7 +4,7 @@
 
 [![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
-# Agent browser
+# Agent Browser
 - [What is Agent Browser?](#what-is-Agent-browser)
 - [Key Features](#key-features)
     + [Handling CAPTCHA Events](#handling-captcha-events)
